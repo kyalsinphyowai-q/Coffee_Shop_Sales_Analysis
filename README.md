@@ -50,7 +50,7 @@ The original product summary contains both transaction counts and revenue. These
 - Charts and dashboard slicer
 
 ## Project Files
-- `Coffee_Sales_Excel_Dashboard.xlsx` — Excel workbook and dashboard.
+- `Coffee_Sales_Excel_Dashboard_Upload.xlsx` — Excel workbook and dashboard.
 - `Coffee_Shop_Top_Products_by_Revenue.csv` — product summary ranked by revenue, exported from the workbook's product summary.
 
 ## Data Quality Notes
