@@ -23,6 +23,12 @@ This project analyzes six months of coffee shop transaction data (January–June
 - Highest-revenue month: **June, $166,485.88**
 - Highest-volume hour: **10:00, with 18,545 transactions**
 
+## Dashboard Preview
+
+"Coffee Shop Sales Dashboard" (images/coffee_shop_sales_dashboard.png)
+
+Interactive Excel dashboard showing revenue trends, product-category transaction counts, peak transaction hours, and store-location filtering.
+
 ## Findings
 ### Revenue trend
 Monthly revenue was $81,677.74 in January, fell to $76,145.19 in February, and then increased from March through June. June was the highest-revenue month at $166,485.88. This describes the observed trend; the workbook alone does not establish why revenue changed.
