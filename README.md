@@ -71,12 +71,12 @@ The workbook's analysis range contains 149,116 transaction records. Before publi
 - Transaction counts should not be interpreted as unique customers.
 - Recommendations are hypotheses for further review, not proven causes or guaranteed outcomes.
 
-- ## About Me
+## About Me
 
-**Kyal Sin Phyo Wai**  
-Aspiring Freelance Data Analyst
+ **Kyal Sin Phyo Wai**  
+ Aspiring Freelance Data Analyst
 
-**Skills:** Excel • SQL • Power BI
+ **Skills:** Excel • SQL • Power BI
 
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kyal-sin-phyo-wai)
+ **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kyal-sin-phyo-wai)
 
