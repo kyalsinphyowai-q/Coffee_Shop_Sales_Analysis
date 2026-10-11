@@ -57,8 +57,10 @@ The original product summary contains both transaction counts and revenue. These
 - Charts and dashboard slicer
 
 ## Project Files
-- `Coffee_Sales_Excel_Dashboard_Upload.xlsx` — Excel workbook and dashboard.
-- `Coffee_Shop_Top_Products_by_Revenue.csv` — product summary ranked by revenue, exported from the workbook's product summary.
+
+- [Download the Excel Workbook](Coffee_Sales_Excel_Dashboard.xlsx)
+- [View the repository on GitHub](https://github.com/kyalsinphyowai-q/Coffee_Shop_Sales_Analysis)
+  
 
 ## Data Quality Notes
 The workbook's analysis range contains 149,116 transaction records. Before publishing, complete a final systematic check of missing values, duplicate transaction IDs, data types, and revenue calculations in Excel. The current summary values have been read from the workbook's PivotTables; this README does not claim that every possible data-quality issue has been ruled out. Revenue is not the same as profit, and no causal explanation for monthly changes is claimed.
