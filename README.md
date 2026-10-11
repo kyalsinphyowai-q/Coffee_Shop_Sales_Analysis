@@ -24,12 +24,10 @@ This project analyzes six months of coffee shop transaction data (January–June
 - Highest-volume hour: **10:00, with 18,545 transactions**
 
 ## Dashboard Preview
-!"Sales Performance Dashboard"(Sales_Performance_Dashboard.jpg)
+![Sales Performance Dashboard](Sales_Performance_Dashboard.jpg)
 
-!"Business Insights"(Business_Insights.jpg)
-
-
-Interactive Excel dashboard showing revenue trends, product-category transaction counts, peak transaction hours, and store-location filtering.
+## Key Business Insights
+![Business Insights](Business_Insights.jpg)
 
 ## Findings
 ### Revenue trend
