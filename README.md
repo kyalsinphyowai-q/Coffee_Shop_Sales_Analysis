@@ -26,6 +26,7 @@ This project analyzes six months of coffee shop transaction data (January–June
 ## Dashboard Preview
 ![Coffee_Sales_Excel_Dashboard](Coffee_Sales_Excel_Dashboard.jpg)
 
+Interactive Excel dashboard showing revenue trends, product-category transaction counts, peak transaction hours, and store-location filtering.
 
 ## Findings
 ### Revenue trend
