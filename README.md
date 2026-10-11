@@ -68,3 +68,13 @@ The workbook's analysis range contains 149,116 transaction records. Before publi
 - Revenue ranking does not establish profitability because product cost and margin are not part of the reported findings.
 - Transaction counts should not be interpreted as unique customers.
 - Recommendations are hypotheses for further review, not proven causes or guaranteed outcomes.
+
+- ## About Me
+
+**Kyal Sin Phyo Wai**  
+Aspiring Freelance Data Analyst
+
+**Skills:** Excel • SQL • Power BI
+
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kyal-sin-phyo-wai)
+
